@@ -3,10 +3,8 @@
 <br>
 <br>
 <br>
-🌱 I’m currently learning 42Seoul
-<br>
-🐥 42intra Id : Jiylee
-<br>
+### 🌱 I’m currently learning 42Seoul
+### 🐥 42intra Id : Jiylee
 <br>
 <br>
 <br>
